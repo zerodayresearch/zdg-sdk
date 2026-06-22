@@ -4,13 +4,13 @@ import teamBella from "@/assets/610956333_122239053698133286_390574820313624389_
 
 const team = [
   {
-    name: "Petter Han",
+    name: "Ibnu Rusdianto",
     role: "Chief Security Officer",
     image: teamPetter,
   },
   {
-    name: "Ibnu Rusdianto",
-    role: "Director of Digital Forensics",
+    name: "Ikhsan Adi Prayogo",
+    role: "Junior of Digital Forensics",
     image: teamBella,
   },
   {
