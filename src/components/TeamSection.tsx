@@ -9,13 +9,13 @@ const team = [
     image: teamPetter,
   },
   {
-    name: "Bella Hadikusuma",
+    name: "Ibnu Rusdianto",
     role: "Director of Digital Forensics",
     image: teamBella,
   },
   {
     name: "Thomas Andri Hutomo",
-    role: "Lead Penetration Tester",
+    role: "Lead Reverse Engineering & CSI/OSEE Experts",
     image: teamPetter,
   },
   {
