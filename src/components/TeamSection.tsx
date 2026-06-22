@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import teamPetter from "@/assets/team-petter.png";
-import teamBella from "@/assets/team-bella.jpg";
+import teamBella from "@/assets/610956333_122239053698133286_390574820313624389_n.png";
 
 const team = [
   {
